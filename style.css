@@ -1,0 +1,193 @@
+.me-auto {
+    margin-right: auto !important;
+    margin-left: auto !important;
+}
+
+.navbar-button {
+    background-color: rgb(255, 136, 0);
+    color: white;
+    padding: 8px 15px;
+    border-radius: 20px;
+    border: none;
+
+
+}
+
+.hero-section {
+
+    background-color: rgb(167, 4, 4);
+    /* background-image: url("./images/858141.jpg.jpeg");
+background-size: cover;
+background-position: top;
+background-repeat: no-repeat; */
+    height: 700px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.hero-text {
+    width: 45%;
+    padding-left: 100px;
+    /* padding-top: 10%; */
+
+    color: white;
+}
+
+main{
+padding-inline: 100px;
+}
+
+.trust-bar{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+    justify-content: space-between;
+    height: 100px;
+    border: 1px solid rgb(173, 170, 170);
+}
+
+.trust-bar-image{
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+    
+    gap: 20px;
+}
+.trusted-by-client{
+    display: flex;
+    justify-content: space-around;
+    
+    height: 100px;
+}
+
+.trusted-by-client-image{
+    display: flex;
+  
+}
+
+
+
+.trusted-by-business{
+    padding-inline: 20px;
+border-right: 1px solid gray;
+}
+.trusted-by-client-image-text{
+    
+}
+
+.services{
+     display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+   
+}
+
+.services-grid{
+display: flex;
+flex-direction: column;
+width: 300px;
+border: 1px solid gray;
+margin-top: 80px;
+background-color: rgb(255, 136, 0);
+color: white;
+padding: 10px 10px;
+border: none;
+border-radius: 30px;
+
+}
+
+.services-grid img{
+    width: 20%;
+    
+}
+
+
+.why-choose-us{
+    background-image: url("./images/1495420970.jpg");
+    background-repeat: no-repeat;
+background-size: cover;
+height: 300px;
+margin-top: 100px;
+
+
+
+}
+
+.why-choose-us-text{
+    width: 50%;
+}
+
+
+
+.footer{
+    background-color: rgb(2, 2, 58);
+    padding: 50px 50px;
+    margin-top: 100px;
+}
+
+.footer-content{
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+    gap: 30px;
+   
+    color: white;
+}
+
+
+
+.google-review{
+
+}
+
+.google-review-text{
+    display: flex;
+    flex-direction: column;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
