@@ -238,18 +238,19 @@ padding-inline: 100px;
 }
 
 
-.why-choose-us{
+.why-choose-us {
     background-image: url("./images/1495420970.jpg");
     background-repeat: no-repeat;
-background-size: cover;
-height: 300px;
-margin-top: 100px;
-
-
-
+    background-size: cover;
+    height: 300px;
+    margin-top: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+   
 }
 
-.why-choose-us-text{
+.why-choose-us-text {
     width: 50%;
 }
 
