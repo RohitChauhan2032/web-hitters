@@ -211,20 +211,15 @@ padding-inline: 100px;
 
 /* Icon Container */
 .service-icon-wrapper {
-    width: 52px;
-    height: 52px;
-    background: rgba(0, 0, 0, 0.14);
-    border-radius: 50%;
     display: flex;
     align-items: center;
-    justify-content: center;
     margin-bottom: 22px;
-    color: #0d131f;
+    color: #ffffff;
 }
 
 .service-icon-wrapper svg {
-    width: 24px;
-    height: 24px;
+    width: 48px;
+    height: 48px;
 }
 
 .service-card h3 {
